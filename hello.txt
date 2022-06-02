@@ -10,4 +10,5 @@ t'm testing the ability of Git
 t'm testing the ability of Git
 t'm testing the ability of Git
 t'm testing the ability of Git mater test
+t'm testing the ability of Git hot-fix test
 t'm testing the ability of Git
